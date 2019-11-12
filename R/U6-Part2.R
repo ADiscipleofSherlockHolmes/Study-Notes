@@ -1,4 +1,4 @@
-# »æÖÆÈıÎ¬ĞÅÏ¢Í¼
+# ç»˜åˆ¶ä¸‰ç»´ä¿¡æ¯å›¾
 contour(volcano,nlevels = 8, method = "flattest", lwd = 2,labcex = 0.8, vfont = c("sans serif","italic"),col = "blue")
 
 attach(mtcars)
