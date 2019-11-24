@@ -399,5 +399,7 @@ hadoop jar SecondarySort.jar mr.SecondarySort /secsortdata.txt  /result  1
 hadoop jar SecondarySort.jar /secsortdata.txt  /result  1
 ```
 
+在导出了jar包后，用WinSCP等sftp工具将实验电脑上的文件上传至master服务器  
 
-真心好坑
+
+那两种命令真心好坑：(
