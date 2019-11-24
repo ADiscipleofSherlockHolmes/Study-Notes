@@ -114,10 +114,10 @@ public class WordCount {
 
 ###  `选择了主类和没有选主类命令不一样，要特别注意！！！！！导出jar以后要用sftp从本地传到master服务器`
 
-![](./exp5/3.1.png)
+![](./exp5/3.1.png)  
 **[root@master ~]# yarn  jar  hdpAction.jar  njupt.WordCount  /word  /wordcount 1**
 
-![](./exp5/3.2.png)
+![](./exp5/3.2.png)  
 **[root@master ~]# yarn  jar  hdpAction.jar  /word  /wordcount1 1**
 
 <br />
