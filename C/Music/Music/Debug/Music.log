@@ -1,0 +1,3 @@
+﻿  music.cpp
+e:\github\study-note\c\music\music\music.cpp(7): warning C4326: “main”的返回类型应为“int”而非“void”
+  Music.vcxproj -> E:\Github\Study-Note\C\Music\Debug\Music.exe
