@@ -1,5 +1,3 @@
-
-public class AttackStrategy {
-	public void AttackTarget(Monster monster) {
-	}
+interface  AttackStrategy {
+	public abstract void AttackTarget(Monster monster) ;
 }

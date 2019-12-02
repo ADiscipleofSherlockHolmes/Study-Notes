@@ -1,5 +1,5 @@
 
-public class MagicSword extends AttackStrategy{
+public class MagicSword implements AttackStrategy{
 	
 	public void AttackTarget(Monster monster) {
 		double number = Math.random();
