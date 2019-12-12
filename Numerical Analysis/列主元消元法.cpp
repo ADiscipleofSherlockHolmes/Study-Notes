@@ -40,7 +40,7 @@ int function()
 		for(i=k+1;i<n;i++)
 		{
 			m = A[i][k]/A[k][k];
-			for(j=0;j<n;j++)
+			for(j=k;j<n;j++)
 			{
 				A[i][j] -= (m*A[k][j]);
 			}
