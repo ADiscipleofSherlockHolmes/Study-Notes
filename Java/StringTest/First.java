@@ -11,5 +11,10 @@ public class First {
         System.out.println('*' + "\t" + '*');//*	*
         System.out.println('*' + '\t' + "*");//51*
         System.out.println('*' + ('\t' + "*"));//*	*
+		
+		String str = 3.5f+"";
+        System.out.println(str);//"3.5"
+        double d = Double.parseDouble(str);
+        System.out.println(d);//3.5
     }
 }
