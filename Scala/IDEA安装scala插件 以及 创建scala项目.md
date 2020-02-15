@@ -32,5 +32,5 @@ IDEA的版本可以在`一开始的界面`或者`IDEA的安装目录下文件夹
 ### 5.参考
 IntelliJ IDEA安装scala插件并创建scala的详细教程：https://blog.csdn.net/u013973379/article/details/82826034  
 
-IntelliJ IDEA安装scala插件并创建scala的详细教程：https://blog.csdn.net/Appleyk/article/details/82180599
+Intellij IDEA 安装Scala插件 + 创建Scala项目（Hello World！）：https://blog.csdn.net/Appleyk/article/details/82180599
 
